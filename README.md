@@ -1,4 +1,6 @@
-# Machine_Learning
+# 周志华《Machine Learning》学习笔记
+
+参考https://github.com/familyld/Machine_Learning
 
 注：Github的Markdown渲染器不支持渲染latex公式，Chrome浏览器用户请安装[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)插件，谢谢你的关注。无法科学上网的同学可以找到resource文件夹中的 GitHub with MathJax 0.2.3.crx 文件，下载后拖入到Chrome浏览器插件页安装即可。有部分公式过于复杂，该浏览器插件也无法覆盖，所以推荐还是下载到本地查看，之后会有渲染为 pdf 的打算。使用Sublime Text的朋友可以用 **OmniMarkupPreviewer** 插件来浏览，所有公式经过检查都是显示正常的~
 
@@ -76,3 +78,11 @@
 ### 规则学习
 
 ### 强化学习
+
+# 课后作业代码
+
+https://github.com/cs123951/MachineLearning
+
+https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua
+
+https://github.com/hanmq/MachineLearning_Zhouzhihua_ProblemSets
