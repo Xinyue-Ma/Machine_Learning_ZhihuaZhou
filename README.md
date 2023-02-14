@@ -170,7 +170,7 @@ B站视频：https://www.bilibili.com/video/BV1Mh411e7VU
 学习建议：先预习，再看直播回放
  
 * 支持向量机（3天）
-* 
+
 预习：西瓜书6.1、6.2
 
 直播回放：https://www.bilibili.com/video/BV1Mh411e7VU?p=8
