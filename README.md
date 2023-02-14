@@ -102,7 +102,7 @@ B站视频：https://www.bilibili.com/video/BV1Mh411e7VU
 
 ## 学习任务安排
 
-### [] Task00：开营，组队，熟悉规则（1天）
+### [ ] Task00：开营，组队，熟悉规则（1天）
 
 看一下导学课：https://www.bilibili.com/video/BV1Mh411e7VU?p=1
  
